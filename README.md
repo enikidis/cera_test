@@ -1,6 +1,6 @@
 <h1 align="center">Hi ,This Coastal Emergency Risks Assessment (CERA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">
-##### CENTER FOR COMPUTATION AND TECHNOLOGY & LOUISIANA SEA GRANT, LOUISIANA STATE UNIVERSITY</a>
+#####  <h2 align="center">
+CENTER FOR COMPUTATION AND TECHNOLOGY & LOUISIANA SEA GRANT, LOUISIANA STATE UNIVERSITY</a>
 </p>
 </h2>
 <h2 align="center">
