@@ -2,7 +2,7 @@
 
 </h2>
 <h2 align="center">
-	<img src="https://media.licdn.com/dms/image/C560BAQGdFJ6mMr8N7Q/company-logo_200_200/0/1622550830954?e=1696464000&v=beta&t=cHuv77ZEOT4xgb2SGj6K6lxRy6inbQ4qWLZ0BZm5kec">  
+	<img src="1622550830954-removebg-preview.png">  
 </h2>
 <h2 align="center">
     <a href="https://cera.coastalrisk.live/">www.cera.coastalrisk.live</a>
