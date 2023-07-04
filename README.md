@@ -1,5 +1,5 @@
 
-# <h1 style="text-align: center;">Welcome to our storm surge and flooding visualization group <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+# <h1 style="text-align: center;">Welcome to our storm surge and flooding <br/>visualization group 👋
 </h2>
 <h2 align="center">
 		Coastal Emergency Risks Assessment (CERA) <br/>
