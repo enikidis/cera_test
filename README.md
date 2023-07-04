@@ -49,5 +49,7 @@ Thank you for your interest in our Group. Together, we can enhance our understan
 </p>
 
 ---
+<p align="center">
+  CENTER FOR COMPUTATION AND TECHNOLOGY & LOUISIANA SEA GRANT, LOUISIANA STATE UNIVERSITY
+</p>
 
-###### <p style="text-align: center;"> CENTER FOR COMPUTATION AND TECHNOLOGY & LOUISIANA SEA GRANT, LOUISIANA STATE UNIVERSITY
