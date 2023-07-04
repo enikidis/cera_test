@@ -1,6 +1,8 @@
-# <h1 style="text-align: center;">Welcome to our storm surge and flooding visualization group <br/> Coastal Emergency Risks Assessment (CERA) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+
+# <h1 style="text-align: center;">Welcome to our storm surge and flooding visualization group <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 </h2>
 <h2 align="center">
+	Coastal Emergency Risks Assessment (CERA)
 	<img src="https://i.imgur.com/zwjZCkt.png">  <br/> <a href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a>
 </h2>
 <p align="center">
