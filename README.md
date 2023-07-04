@@ -2,8 +2,8 @@
 # <h1 style="text-align: center;">Welcome to our storm surge and flooding visualization group <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 </h2>
 <h2 align="center">
-	Coastal Emergency Risks Assessment (CERA)
-	<img src="https://i.imgur.com/zwjZCkt.png">  <br/> <a href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a>
+		Coastal Emergency Risks Assessment (CERA) <br/>
+		<img src="https://i.imgur.com/zwjZCkt.png">  <br/> <a href="https://cera.coastalrisk.live/">cera.coastalrisk.live</a>
 </h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=42BBE6&background=42BBE600&multiline=true&width=435&height=100-&lines=VISUALIZE%3A+the+numbers.;ASSESS%3A+the+situation.;DECIDE%3A+the+next+move." alt="Typing SVG" /></a>
