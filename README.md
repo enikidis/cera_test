@@ -1,5 +1,8 @@
 
-# <h1 style="text-align: center;">Welcome to our storm surge and flooding <br/>visualization group 👋
+<h1 align="center">
+Welcome to our storm surge and flooding <br/>
+visualization group 👋
+</h1>
 </h2>
 <h2 align="center">
 		Coastal Emergency Risks Assessment (CERA) <br/>
